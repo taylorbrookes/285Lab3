@@ -1,5 +1,5 @@
 /**
- * lab3 - Instance of myXMLValidator is made. 
+ * lab3.java - Instance of myXMLValidator is made. 
  * Output of method precision is printed.
  * @author Taylor Brookes
  * @version 27 September 2023
