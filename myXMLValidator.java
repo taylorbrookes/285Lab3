@@ -1,6 +1,12 @@
 
 public class myXMLValidator implements IXMLValidator {
 
+	/**
+	 * Determines whether the input string is a correct XML string
+	 * @param stack the IStack object used
+	 * @param inputXML the string to be checked
+	 * @return true if the input is a correct XML string, false if it is not a correct XML string
+	 */
 	@Override
 	public boolean validateXML(IStack stack, String inputXML) {
 		// TODO Auto-generated method stub
