@@ -2,7 +2,6 @@
  * XMLValidatorTester - Class to test the IXMLValidator class, requires a IStack to be constructed.
  * @author Ellis Fitzgerald
  * @version September 27 2023
- * Lab 3 # Ellis
  */
 public class XMLValidatorTester {
     
